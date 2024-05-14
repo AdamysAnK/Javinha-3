@@ -1,0 +1,10 @@
+° O que é java?
+    Uma linguagem orientada a objetos
+
+    Fortemente tipada, sempre declarar as variaveis, se não vai acusar de erros
+
+    Ela roda em diferente sistemas
+
+° O que é JVM (Java Virtual Machine)?
+    Ela que faz o java rodar em diferentes sistemas. Ela compila, interpreta e executa o codigo
+
